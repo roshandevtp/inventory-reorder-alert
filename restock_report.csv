@@ -1,4 +1,4 @@
-item_name,current_quantity,reorder_threshold
-Laptop,5,10
-Keyboard,8,10
-USB Cable,3,5
+item_name,current_quantity,reorder_threshold,priority,reorder_quantity
+Laptop,5,10,Low,5
+Keyboard,8,10,Low,2
+USB Cable,3,5,Low,2
