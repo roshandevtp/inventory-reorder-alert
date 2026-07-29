@@ -1,0 +1,4 @@
+item_name,current_quantity,reorder_threshold
+Laptop,5,10
+Keyboard,8,10
+USB Cable,3,5
